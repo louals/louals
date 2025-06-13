@@ -42,7 +42,7 @@
 
 ## 🤝 Let's Connect  
 <p align="center">  
-  <a href="[https://linkedin.com/in/louaialsabbagh](https://www.linkedin.com/in/louai-a-8b239b2a0/)">  
+  <a href="https://www.linkedin.com/in/louai-a-8b239b2a0">  
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>  
   </a>  
   <a href="https://louaialsabbagh.tech">  
