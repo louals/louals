@@ -9,7 +9,7 @@
 
 
 <div>
-    <img src="./assets/louai.gif" alt="About Me Terminal GIF"/>
+    <img src="./assets/terminal-louai.gif" alt="About Me Terminal GIF"/>
 </div>
 
 
