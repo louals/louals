@@ -17,7 +17,7 @@
 [![My Skills](https://skillicons.dev/icons?i=py,js,ts,cs,html,css,nodejs,react,nextjs,vue,express,nestjs,fastapi,flask,dotnet,androidstudio,kotlin,java,jquery,redux,tailwind,bootstrap,sklearn,opencv,threejs,cmake,gradle,vite,npm,docker,git,github,postgres,mysql,sqlite,mongodb,firebase,supabase,appwrite,gcp,postman,notion)](https://skillicons.dev)
 
 ### Studying
-[![Learning](https://skillicons.dev/icons?i=aws,azure,cloudflare,electron,blender)](https://skillicons.dev)
+[![Learning](https://skillicons.dev/icons?i=n8n,azure,cloudflare,electron,blender)](https://skillicons.dev)
 
 
 
