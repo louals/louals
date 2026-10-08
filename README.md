@@ -18,7 +18,7 @@
   <a href="https://louaialsabbagh.vercel.app">
     <img src="https://img.shields.io/badge/Portfolio-21262d?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
   </a>
-  <a href="https://www.linkedin.com/in/louaialsabbagh">
+  <a href="https://www.linkedin.com/in/louai-alsabbagh">
     <img src="https://img.shields.io/badge/LinkedIn-Louai_Al_Sabbagh-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
